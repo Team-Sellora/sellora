@@ -1,0 +1,334 @@
+{
+ "per_repo": {
+  "sellora-catalog": {
+   "commits": 115,
+   "loc": {
+    "YAML": 292,
+    "C#": 5342
+   },
+   "merged_prs": 20
+  },
+  "sellora-delivery": {
+   "commits": 112,
+   "loc": {
+    "YAML": 356,
+    "C#": 10075
+   },
+   "merged_prs": 21
+  },
+  "sellora-infra": {
+   "commits": 41,
+   "loc": {
+    "Shell": 295,
+    "YAML": 186
+   },
+   "merged_prs": 9
+  },
+  "sellora-inventory": {
+   "commits": 120,
+   "loc": {
+    "YAML": 263,
+    "C#": 7274
+   },
+   "merged_prs": 15
+  },
+  "sellora-notification": {
+   "commits": 45,
+   "loc": {
+    "YAML": 339,
+    "Shell": 199,
+    "C#": 5685
+   },
+   "merged_prs": 8
+  },
+  "sellora-order": {
+   "commits": 87,
+   "loc": {
+    "YAML": 409,
+    "Shell": 173,
+    "C#": 10515
+   },
+   "merged_prs": 15
+  },
+  "sellora-organization": {
+   "commits": 294,
+   "loc": {
+    "YAML": 328,
+    "C#": 16357
+   },
+   "merged_prs": 29
+  },
+  "sellora-web": {
+   "commits": 218,
+   "loc": {
+    "YAML": 32,
+    "TypeScript": 24265,
+    "CSS": 675
+   },
+   "merged_prs": 34
+  }
+ },
+ "lang": {
+  "YAML": 2205,
+  "C#": 55248,
+  "Shell": 667,
+  "TypeScript": 24265,
+  "CSS": 675
+ },
+ "weekly": [
+  [
+   "2026-08-17",
+   "sellora-infra",
+   25
+  ],
+  [
+   "2026-08-17",
+   "sellora-web",
+   5
+  ],
+  [
+   "2026-08-24",
+   "sellora-infra",
+   12
+  ],
+  [
+   "2026-08-24",
+   "sellora-organization",
+   240
+  ],
+  [
+   "2026-08-24",
+   "sellora-web",
+   67
+  ],
+  [
+   "2026-08-31",
+   "sellora-catalog",
+   60
+  ],
+  [
+   "2026-08-31",
+   "sellora-organization",
+   2
+  ],
+  [
+   "2026-09-07",
+   "sellora-catalog",
+   38
+  ],
+  [
+   "2026-09-07",
+   "sellora-infra",
+   2
+  ],
+  [
+   "2026-09-07",
+   "sellora-inventory",
+   53
+  ],
+  [
+   "2026-09-07",
+   "sellora-organization",
+   15
+  ],
+  [
+   "2026-09-07",
+   "sellora-web",
+   26
+  ],
+  [
+   "2026-09-14",
+   "sellora-catalog",
+   13
+  ],
+  [
+   "2026-09-14",
+   "sellora-inventory",
+   37
+  ],
+  [
+   "2026-09-14",
+   "sellora-order",
+   34
+  ],
+  [
+   "2026-09-14",
+   "sellora-organization",
+   12
+  ],
+  [
+   "2026-09-14",
+   "sellora-web",
+   12
+  ],
+  [
+   "2026-09-21",
+   "sellora-catalog",
+   2
+  ],
+  [
+   "2026-09-21",
+   "sellora-infra",
+   2
+  ],
+  [
+   "2026-09-21",
+   "sellora-inventory",
+   17
+  ],
+  [
+   "2026-09-21",
+   "sellora-notification",
+   10
+  ],
+  [
+   "2026-09-21",
+   "sellora-order",
+   37
+  ],
+  [
+   "2026-09-21",
+   "sellora-organization",
+   17
+  ],
+  [
+   "2026-09-21",
+   "sellora-web",
+   16
+  ],
+  [
+   "2026-09-28",
+   "sellora-delivery",
+   13
+  ],
+  [
+   "2026-09-28",
+   "sellora-inventory",
+   2
+  ],
+  [
+   "2026-09-28",
+   "sellora-notification",
+   24
+  ],
+  [
+   "2026-09-28",
+   "sellora-order",
+   3
+  ],
+  [
+   "2026-09-28",
+   "sellora-web",
+   8
+  ],
+  [
+   "2026-10-05",
+   "sellora-delivery",
+   66
+  ],
+  [
+   "2026-10-05",
+   "sellora-notification",
+   11
+  ],
+  [
+   "2026-10-05",
+   "sellora-order",
+   13
+  ],
+  [
+   "2026-10-05",
+   "sellora-organization",
+   7
+  ],
+  [
+   "2026-10-05",
+   "sellora-web",
+   31
+  ],
+  [
+   "2026-10-12",
+   "sellora-catalog",
+   2
+  ],
+  [
+   "2026-10-12",
+   "sellora-delivery",
+   33
+  ],
+  [
+   "2026-10-12",
+   "sellora-inventory",
+   11
+  ],
+  [
+   "2026-10-12",
+   "sellora-organization",
+   1
+  ],
+  [
+   "2026-10-12",
+   "sellora-web",
+   53
+  ]
+ ],
+ "daily": {
+  "2026-08-19": 20,
+  "2026-08-20": 5,
+  "2026-08-23": 5,
+  "2026-08-24": 39,
+  "2026-08-25": 83,
+  "2026-08-26": 83,
+  "2026-08-27": 70,
+  "2026-08-28": 30,
+  "2026-08-29": 14,
+  "2026-09-01": 1,
+  "2026-09-03": 1,
+  "2026-09-04": 29,
+  "2026-09-05": 2,
+  "2026-09-06": 29,
+  "2026-09-07": 14,
+  "2026-09-08": 29,
+  "2026-09-09": 13,
+  "2026-09-10": 5,
+  "2026-09-11": 27,
+  "2026-09-12": 35,
+  "2026-09-13": 11,
+  "2026-09-14": 27,
+  "2026-09-15": 21,
+  "2026-09-16": 19,
+  "2026-09-18": 21,
+  "2026-09-19": 16,
+  "2026-09-20": 4,
+  "2026-09-21": 2,
+  "2026-09-22": 13,
+  "2026-09-23": 6,
+  "2026-09-24": 34,
+  "2026-09-25": 28,
+  "2026-09-26": 18,
+  "2026-09-28": 25,
+  "2026-09-29": 10,
+  "2026-09-30": 2,
+  "2026-10-03": 12,
+  "2026-10-04": 1,
+  "2026-10-05": 11,
+  "2026-10-07": 1,
+  "2026-10-08": 15,
+  "2026-10-09": 51,
+  "2026-10-10": 11,
+  "2026-10-11": 39,
+  "2026-10-12": 17,
+  "2026-10-13": 43,
+  "2026-10-14": 34,
+  "2026-10-18": 6
+ },
+ "tests": {
+  "sellora-web": 284,
+  "sellora-delivery": 212,
+  "sellora-organization": 199,
+  "sellora-order": 194,
+  "sellora-inventory": 97,
+  "sellora-notification": 81,
+  "sellora-catalog": 67
+ }
+}
